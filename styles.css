@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body{
+    background-color: antiquewhite;
+    
+} */
+
+/* main{
+    border: 2px solid black;
+    width: 80%;
+    padding: 40px;
+    margin: 50px auto;
+} */
+
+/* li{
+display: block; /*ocupa 100% o inline todo en linea
+}  */
+
+li a{
+    color: #686868;
+    padding-left: 30px;
+}
+
+a:hover{
+    color: #3a3f51;
+}
+
+aside li{
+    padding-top: 1rem;
+}
+
+ul{
+    padding-left: 0;
+}
+
+img{
+    height: 181px;
+}
+
+
+
+
